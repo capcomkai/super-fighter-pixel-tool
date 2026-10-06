@@ -1,8 +1,8 @@
 # Super Fighter Pixel Tool
 
-繁體中文瀏覽器點陣圖編輯器，目前版本 **v26**。
+繁體中文瀏覽器點陣圖編輯器，目前版本 **v27**。
 
-## 開啟方式
+## 開啟上午方式
 
 下載此儲存庫 ZIP 並解壓縮，使用瀏覽器開啟 `index.html` 或 `Super_Fighter_Pixel_Editor_v26.html`。兩個檔案內容相同，無須安裝或建置。
 
